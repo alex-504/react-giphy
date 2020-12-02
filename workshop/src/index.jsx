@@ -17,7 +17,7 @@ class Hello extends Component {
   }
     render() {
     const { name } = this.props;
-    return <h1>Hi { props.name }, from React  Class 😀</h1>
+    return <h1>Hi { props.name }, from React  Class 😀.</h1>
   }
  }
 
